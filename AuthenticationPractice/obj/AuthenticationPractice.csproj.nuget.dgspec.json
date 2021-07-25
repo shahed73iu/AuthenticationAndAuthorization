@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SHAHED\\source\\repos\\AuthenticationPractice\\AuthenticationPractice\\AuthenticationPractice.csproj": {}
+    "C:\\Users\\SHAHED\\Desktop\\AuthenticationAndAuthorization\\AuthenticationPractice\\AuthenticationPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SHAHED\\source\\repos\\AuthenticationPractice\\AuthenticationPractice\\AuthenticationPractice.csproj": {
+    "C:\\Users\\SHAHED\\Desktop\\AuthenticationAndAuthorization\\AuthenticationPractice\\AuthenticationPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\AuthenticationPractice\\AuthenticationPractice\\AuthenticationPractice.csproj",
+        "projectUniqueName": "C:\\Users\\SHAHED\\Desktop\\AuthenticationAndAuthorization\\AuthenticationPractice\\AuthenticationPractice.csproj",
         "projectName": "AuthenticationPractice",
-        "projectPath": "C:\\Users\\SHAHED\\source\\repos\\AuthenticationPractice\\AuthenticationPractice\\AuthenticationPractice.csproj",
+        "projectPath": "C:\\Users\\SHAHED\\Desktop\\AuthenticationAndAuthorization\\AuthenticationPractice\\AuthenticationPractice.csproj",
         "packagesPath": "C:\\Users\\SHAHED\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHAHED\\source\\repos\\AuthenticationPractice\\AuthenticationPractice\\obj\\",
+        "outputPath": "C:\\Users\\SHAHED\\Desktop\\AuthenticationAndAuthorization\\AuthenticationPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SHAHED\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.17, )"
+            },
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
               "version": "[2.2.0, )"
