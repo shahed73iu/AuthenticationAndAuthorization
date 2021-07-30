@@ -109,3 +109,4 @@ C:\Users\SHAHED\Desktop\AuthenticationAndAuthorization\AuthenticationPractice\ob
 C:\Users\SHAHED\Desktop\AuthenticationAndAuthorization\AuthenticationPractice\obj\Debug\netcoreapp3.1\AuthenticationPractice.dll
 C:\Users\SHAHED\Desktop\AuthenticationAndAuthorization\AuthenticationPractice\obj\Debug\netcoreapp3.1\AuthenticationPractice.pdb
 C:\Users\SHAHED\Desktop\AuthenticationAndAuthorization\AuthenticationPractice\obj\Debug\netcoreapp3.1\AuthenticationPractice.genruntimeconfig.cache
+C:\Users\SHAHED\Desktop\AuthenticationAndAuthorization\AuthenticationPractice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
